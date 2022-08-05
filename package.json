@@ -10,7 +10,7 @@
     "bcrypt": "^3.0.3",
     "express": "^4.16.4",
     "http": "0.0.0",
-    "mongoose": "^5.4.5",
+    "mongoose": "^5.7.5",
     "react": "16.6.3",
     "react-native": "0.57.8",
     "socket.io": "^2.2.0",
